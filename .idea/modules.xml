@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mp.iml" filepath="$PROJECT_DIR$/.idea/mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp.iml" filepath="$PROJECT_DIR$/mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microservices/mp-services-common/mp-services-common.iml" filepath="$PROJECT_DIR$/../microservices/mp-services-common/mp-services-common.iml" />
     </modules>
   </component>
 </project>
